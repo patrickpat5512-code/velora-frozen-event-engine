@@ -1,0 +1,6 @@
+# Master Bot Auto-Generated Gitignore
+*.log
+.DS_Store
+.git/
+temp/
+tmp/
